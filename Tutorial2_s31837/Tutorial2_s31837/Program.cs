@@ -5,3 +5,6 @@ static double GetAverage(int[] values) => values.Average();
 
 double avg = GetAverage(numbers);
 Console.WriteLine($"Average value is: {avg}");
+
+static int GetMax(int[] values) => values.Max();
+Console.WriteLine($"Max value is: {GetMax(numbers)}");
