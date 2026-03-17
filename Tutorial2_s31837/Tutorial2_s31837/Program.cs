@@ -9,7 +9,6 @@ Console.WriteLine($"Average value is: {avg}");
 static int GetMax(int[] values) => values.Max();
 Console.WriteLine($"Max value is: {GetMax(numbers)}");
 
-//Zad 5 z apbd
+
 static int CalculateMax(int[] values) => values.Max();
 Console.WriteLine($"Max value is: {CalculateMax(numbers)}");
-//przepraszam ale niechcacy zrobilem merge bez fast forward wiec robie wersje prawidlowa 
