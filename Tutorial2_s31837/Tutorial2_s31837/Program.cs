@@ -17,3 +17,4 @@ Console.WriteLine($"Max value is: {CalculateMax(numbers)}");
 
 static int GetMin(int[] values) => values.Min();
 Console.WriteLine($"Min: {GetMin(numbers)}");
+Console.WriteLine("Tekst do zmiany");
