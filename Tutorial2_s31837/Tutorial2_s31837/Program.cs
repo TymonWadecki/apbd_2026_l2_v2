@@ -16,3 +16,4 @@ Console.WriteLine($"Max value is: {CalculateMax(numbers)}");
 //przepraszam ale niechcacy zrobilem merge bez fast forward wiec robie wersje prawidlowa 
 
 static int GetMin(int[] values) => values.Min();
+Console.WriteLine($"Min: {GetMin(numbers)}");
